@@ -1,2 +1,2 @@
 # Web-Scraping-Data-Analysis-for-E-Commerce-Insights
-Collects and analyzes publicly available e-commerce data such as prices, products, reviews, and competitors to uncover market trends, customer behavior, and pricing insights that support smarter, data-driven business decisions.
+Extracts and analyzes book data from the "Books to Scrape" website, including titles, prices, ratings, and categories. This enables insights into trends, pricing strategies, and product performance, helping businesses or developers make data-driven decisions for e-commerce or market research.
